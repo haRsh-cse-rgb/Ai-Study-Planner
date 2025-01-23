@@ -1,6 +1,20 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Access The project using the link 
+
+https://study-planner-blond.vercel.app/
+
+Want to Run project on your own computer
+
 ## Getting Started
+
+1-> clone this repo using the link clone https://github.com/haRsh-cse-rgb/Ai-Study-Planner
+2-> navigate to the folder and run the command npm i in the terminal.
+3-> Create an API Key from AI Studio
+4-> make .local.env file on root directory
+5-> GEMINI_API_KEY='paste your api key here'
+6-> To run the project run npm run dev in the terminal
+
 
 First, run the development server:
 
